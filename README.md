@@ -24,5 +24,3 @@ This project analyzes historical grocery sales data to:
 - Pandas, Matplotlib
 - Streamlit
 - Git & GitHub
-
-## 📂 Project Structure
