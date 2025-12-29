@@ -37,6 +37,18 @@ Due to licensing restrictions, the dataset is not included in this repository.
 3. Create a folder named `data/` in the project root
 4. Place `train.csv` inside the `data/` folder
 
+## Design Decisions
+
+- Used rolling averages instead of complex ML models to keep predictions interpretable for small retailers
+- Chose Streamlit for rapid prototyping and accessibility
+- Avoided black-box models to ensure transparency in risk classification
+
+## Future Improvements
+- Add LSTM-based demand forecasting
+- Integrate live POS data
+- Add alert notifications for high-risk stores
+
+
 
 ## ▶️ How to Run
 ```bash
