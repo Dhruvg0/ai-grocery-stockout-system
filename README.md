@@ -24,3 +24,9 @@ This project analyzes historical grocery sales data to:
 - Pandas, Matplotlib
 - Streamlit
 - Git & GitHub
+
+
+## ▶️ How to Run
+```bash
+pip install -r requirements.txt
+python -m streamlit run app.py
