@@ -25,13 +25,6 @@ This project analyzes historical grocery sales data to:
 - Streamlit
 - Git & GitHub
 
-
-## ▶️ How to Run
-```bash
-pip install -r requirements.txt
-python -m streamlit run app.py
-
-
 ## Dataset
 
 This project uses the **Store Item Demand Forecasting Challenge** dataset from Kaggle.
@@ -43,4 +36,11 @@ Due to licensing restrictions, the dataset is not included in this repository.
 2. Download `train.csv`
 3. Create a folder named `data/` in the project root
 4. Place `train.csv` inside the `data/` folder
+
+
+## ▶️ How to Run
+```bash
+pip install -r requirements.txt
+python -m streamlit run app.py
+
 
