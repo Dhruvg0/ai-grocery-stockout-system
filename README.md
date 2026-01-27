@@ -1,6 +1,6 @@
 # 🛒 AI Grocery Stock-Out Prediction System
 
-An AI-powered inventory monitoring and stock-out risk prediction system built using real-world grocery demand data..
+An AI-powered inventory monitoring and stock-out risk prediction system built using real-world grocery demand data.
 
 ## 🚀 Problem Statement
 Essential goods often face unexpected stock-outs due to fluctuating demand and poor inventory planning. This leads to supply disruptions, increased costs, and reduced food security.
